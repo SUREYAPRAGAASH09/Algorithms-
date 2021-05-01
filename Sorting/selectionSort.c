@@ -2,7 +2,7 @@
 
 int main()
 {
-    int Arr[9] = {17, 14, 13, 11, 6, 3, 2, 1, 9};; 
+    int Arr[9] = {17, 14, 13, 11, 6, 3, 2, 1, 9};
     int i,j,jIndex, lenght, smallEle, temp;
 
     i = j = jIndex = 0;
