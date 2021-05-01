@@ -8,7 +8,7 @@ int main()
 
     lenght = sizeof(Arr)/sizeof(Arr[0]);
     
-    printf("Sorting using Selection Sorting Algorithm");
+    printf("Sorting using Bubble Sort Algorithm ");
     printf("\n Lenght of the Array : %d", lenght);
     printf("\n Before Sorting : ");
     for ( loopMaintainer=0; loopMaintainer < lenght; loopMaintainer++) printf("%d \t", Arr[loopMaintainer]);
